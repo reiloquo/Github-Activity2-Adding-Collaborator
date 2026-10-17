@@ -1,1 +1,1 @@
-# Github-Activity2-Adding-Collaborator
+# John Benedict T. Alcantara & Jenna Paulene B. Abulencia
