@@ -1,3 +1,5 @@
-Hello Bene (owner)
+Hello Bene! (owner)
+Hi Jenna! (collaborator)
 
-i added this line me the collaborator
+I added this line me the collaborator.
+A sample line added by me the owner.
