@@ -1,1 +1,2 @@
-# John Benedict T. Alcantara & Jenna Paulene B. Abulencia
+# John Benedict T. Alcantara (@reiloquo)
+# Jenna Paulene B. Abulencia (@ky0jenn)
